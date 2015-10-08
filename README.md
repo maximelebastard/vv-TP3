@@ -1,6 +1,9 @@
-# TP3 vv
-Here you will find the material for the third Tp of the Testing Course which copes with the static analysis using PMD.
+V&V TP 3
+====
 
-Objective: to manipulate PMD, a framework for automatic static analysis.
+Maxime Lebastard
+---
 
-Go to http://people.rennes.inria.fr/Benoit.Baudry/test-course/ to find more information
+TP de qualité en PMD
+
+* [Rapport](Rapport/Rapport.pdf)

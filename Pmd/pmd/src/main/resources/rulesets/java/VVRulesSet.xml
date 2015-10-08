@@ -22,4 +22,24 @@
             ]]>
         </example>
     </rule>
+    
+      <rule name="ForLoopsMustBeNotImbriqued"
+        message="Avoid double for loop imbrication"
+         language="java"
+        class="vv.tp3.ForLoopsMustBeNotImbriqued">
+        <description>
+            Avoid double for loop imbrication
+        </description>
+        <priority>3</priority>
+        
+        <example>
+            <![CDATA[
+                public void doSomething() {
+                for(x){
+                	for(y){
+                	}
+                }
+            ]]>
+        </example>
+    </rule>
 </ruleset>
